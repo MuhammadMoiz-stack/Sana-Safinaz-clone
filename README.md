@@ -3,6 +3,11 @@
 This is a static clone of the **Sana Safinaz** landing page built using only **HTML** and **CSS**. It was created for practice purposes to improve frontend layout and styling skills.
 
 ---
+## 🚀 Live Preview
+
+[[(https://muhammadmoiz-stack.github.io/Sana-Safinaz-clone/)]
+
+---
 
 ## 🔍 About the Project
 
